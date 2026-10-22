@@ -24,6 +24,21 @@ Notebooks Jupyter pour apprendre la récursivité, du premier exemple jusqu'aux 
 - épreuve écrite 2022, Polynésie, sujet 1, exercice 1 ;
 - épreuve écrite 2024, Centres étrangers 1, jour 2, exercice 1 (partie C).
 
+## Dossier `Sujets_bac/` : exercices tombés au bac
+
+```
+Sujets_bac/01_Cours_Tableau_de_trace_et_methode.ipynb   tableau de trace (boucle, récursion), arbre des appels, réponses types
+Sujets_bac/02_Exercices_bac.ipynb                        14 exercices de l'épreuve écrite (2021-2025), du plus facile au plus dur
+Sujets_bac/03_Resolutions_bac.ipynb                      résolutions : ÉNONCÉ / RÉSOLUTION / EXPLICATION PÉDAGOGIQUE
+```
+
+| Niveau | Exercices (sujet d'origine) |
+|:---|:---|
+| 1 — Lire et comprendre | sujet 0 B 2023, Centres étrangers 2022 J2, Métropole sept. 2024 J2, Liban 2023 J1, Amérique du Nord 2022 J1 |
+| 2 — Suivre et écrire | Métropole 2021 candidats libres 2 (Fisher-Yates), Polynésie 2025 J1 (baguenaudier) |
+| 3 — Diviser pour régner | Métropole 2021 (tri fusion), Liban 2023 J2 (tri fusion), Amérique du Nord 2024 J2 (tri de Stooge), Asie 2024 J2 (élément majoritaire), Métropole 2021 candidats libres 1 (inversions) |
+| 4 — Récursivité avec des choix | Métropole 2024 J2 (chargement optimal), sujet 0 B 2024 (pyramide, programmation dynamique) |
+
 ## Utilisation
 
 - **En ligne :** cliquer sur le badge *Binder* ci-dessus (premier lancement : quelques minutes).
